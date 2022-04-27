@@ -11,9 +11,7 @@ List::List() {
 	temp = NULL;
 }
 
-
 void List::add(int dta) {
-
 
 	// The node to be added (n with data, dta) will be the last in the list
 	npr n = new node; // n pointer pointing to new node
@@ -53,7 +51,6 @@ void List::add(int dta) {
 	} else {
 		head = n;
 	}
-
 }
 
 void List::del(int d)
