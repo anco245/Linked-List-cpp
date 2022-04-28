@@ -15,10 +15,10 @@ int main() {
 	l.print();
 	
 	/*
-	 * Output will look like:
-	 * 3
-	 * 1
-	 * 9
-	 * 2
+	   Output will look like:
+	   3
+	   1
+	   9
+	   2
 	 */
 }
